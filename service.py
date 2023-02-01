@@ -1,1 +1,1 @@
-print("Hello service")
+print("Hello from service")
